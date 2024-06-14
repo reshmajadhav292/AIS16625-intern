@@ -34,8 +34,15 @@ notebook 4: logical user define function like even , odd, gcd etc
 notebook 5 : statistical user define function like mean , median , mode etc
 
 # Day 4 : task 4
+notebook 1 : 
+ # Numpy library :
+numpy creating array , NumPy array slicing ,NumPy array indexing ,Numpy array shape , numpy array join,numpy array  reshape 
+NumPy Random,Random Intro,Data Distribution
+,Random Permutation,Seaborn Module,Normal Distribution,Binomial Distribution,Poisson Distribution,Uniform Distribution,Logistic Distribution,MultinomialDistribution,Exponential Distribution,Chi Square Distribution,Rayleigh Distribution,Pareto Distribution,Zipf Distribution
+notebook 2: 
+NumPy ufunc ,ufunc Intro ,ufunc Create Function ,ufunc Simple Arithmetic ,ufunc Rounding Decimals,ufunc Log  ,ufunc Summation,ufunc Products,ufunc Differences,ufunc Finding LCM,ufunc Finding GCD,ufunc Trigonometric,ufunc Hyperbolic,ufunc Set Operations
 # Day 5 : task 5
-pandas library 
+# pandas library 
 notebook 1 : series : create and operation 
 notebook 2 : dataframe:
 dataframe read csv and xlse file .dataframe create using matrix,dic 
@@ -47,6 +54,21 @@ notebook 5: missing values:
 missing value checking ,missing value drop by row and by col ,missing value fill 
 
  # Day 6: task 6:
- 
+  # notebook 1: matplotlib :
+ all visualisation like
+Matplotlib Plotting ,
+Matplotlib Markers,
+Matplotlib Line,
+Matplotlib Labels,
+Matplotlib Grid,
+Matplotlib Subplot,
+Matplotlib Scatter,
+Matplotlib Bars,
+Matplotlib Histograms,
+Matplotlib Pie Charts,
+ # notebook 2: seaborn library 
+all visualisation like 
+1.stripplot 2. boxplot 3. barplot 4. histogram etc
+
  
  
