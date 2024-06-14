@@ -25,3 +25,28 @@ notebook 2 : if else condition :  it is use to when one condition is false . exa
 notebook 3 : if elif condition :if the previous conditions were not true, then we  try elif condition.  examples like 
 notebook 4 : for loop : for loop we can execute a set of statements . examples no. is odd even ,student is pass or fail  
 notebook 5 : while loop : While Loop is used to execute a block of statements repeatedly until a given condition is satisfied. examples 
+
+# Day 3: task 3
+notebook1: pass statement examples
+notebook 2 : continue statement examples
+notebook 3 : break statement examples 
+notebook 4: logical user define function like even , odd, gcd etc
+notebook 5 : statistical user define function like mean , median , mode etc
+
+# Day 4 : task 4
+# Day 5 : task 5
+pandas library 
+notebook 1 : series : create and operation 
+notebook 2 : dataframe:
+dataframe read csv and xlse file .dataframe create using matrix,dic 
+notebook 3: dataframe operation :
+value count,apply , unique ,nunique ,decribe 
+notebook 4: selection :
+dataframe col ,row selection , conditional selection ,index,remove index 
+notebook 5: missing values:
+missing value checking ,missing value drop by row and by col ,missing value fill 
+
+ # Day 6: task 6:
+ 
+ 
+ 
