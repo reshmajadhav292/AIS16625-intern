@@ -69,6 +69,14 @@ Matplotlib Pie Charts,
  # notebook 2: seaborn library 
 all visualisation like 
 1.stripplot 2. boxplot 3. barplot 4. histogram etc
+# Day 7 : task 7 
+## Salaries exercise
+## economic purchase exercise
+## numpy exercise
+# Day 8: task 8
+case study on tiatnic dataset 
+# day 9 : task 9
+ creat a dashboard
 
  
  
