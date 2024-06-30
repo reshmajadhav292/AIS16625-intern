@@ -69,7 +69,7 @@ Matplotlib Pie Charts,
  # notebook 2: seaborn library 
 all visualisation like 
 1.stripplot 2. boxplot 3. barplot 4. histogram etc
-#  task 7 
+#  task 7 Exercise 
 ## Salaries exercise
 ## economic purchase exercise
 ## numpy exercise
@@ -78,7 +78,7 @@ case study on tiatnic dataset
 Exploratory data analysis 
 algorithms: knn,naive bayes ,decision tree 
 Confusion matrix 
-#  task 9
+#  task 9 Dashboard 
  creat a dashboard on student performance data set 
  
 # task 9 project on Student performance prediction 
