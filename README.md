@@ -73,10 +73,16 @@ all visualisation like
 ## Salaries exercise
 ## economic purchase exercise
 ## numpy exercise
-# Day 8: task 8
+# Day 8: task 8 : case study 
 case study on tiatnic dataset 
+Exploratory data analysis 
+algorithms: knn,naive bayes ,decision tree 
+Confusion matrix 
+# 
+
 # day 9 : task 9
- creat a dashboard
+ creat a dashboard on student performance data set 
+ 
 
  
  
